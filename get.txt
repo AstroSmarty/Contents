@@ -21,7 +21,7 @@
 ,
 {
     "id": "389",
-    "mpd": "Not found?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://delta.tatasky.net/bpk-tv/irdeto_com_Channel_612/output/manifest.mpd?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {
@@ -31,12 +31,12 @@
 ,
 {
     "id": "219",
-    "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd?%7Ccookie=hdnea=st=1750430896~exp=1750431496~acl=/bpk-tv/irdeto_com_Channel_128/output/*~id=1076415189~hmac=52d5545648b434dd9fd00ca82cc7356f257337a78a478e887e8d0225f5e22cb9&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd?%7Ccookie=hdnea=st=1750431570~exp=1750432170~acl=/bpk-tv/irdeto_com_Channel_128/output/*~id=1076415189~hmac=d98221feeabebab8fffe0b4f7d90eeaca04cf38a8335e805a67b7737bd7ab75f&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {
     "id": "341",
-    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd?%7Ccookie=hdnea=st=1750430898~exp=1750431498~acl=/bpk-tv/irdeto_com_Channel_530/output/*~id=1076415189~hmac=0141aab7c4daed02084cec0149c0855c171ce486a4eaeb7af6568ef11131c03f&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=01902c5b6395545ea257c97e3f923261:6ea483d8784a2ff8b16a84d45e28be3a"
+    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd?%7Ccookie=hdnea=st=1750431574~exp=1750432174~acl=/bpk-tv/irdeto_com_Channel_530/output/*~id=1076415189~hmac=8408e84eb92d2e762a0150136e2cb5797d1569bb715b7c8d60571aa8c061a24d&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=01902c5b6395545ea257c97e3f923261:6ea483d8784a2ff8b16a84d45e28be3a"
 }
 ,
 {

@@ -31,12 +31,12 @@
 ,
 {
     "id": "219",
-    "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd?%7Ccookie=hdnea=st=1750722243~exp=1750722843~acl=/bpk-tv/irdeto_com_Channel_128/output/*~id=1076415189~hmac=987b0cae0dadb6dbb59a3e60f2c1cf3d51f1559989fbd2f1673576160786d338&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd?%7Ccookie=hdnea=st=1750723019~exp=1750723619~acl=/bpk-tv/irdeto_com_Channel_128/output/*~id=1076415189~hmac=bb5e747d14437b19789a9a4b3dec8717339e65888543cfa6a3617b7bc135bd98&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {
     "id": "341",
-    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd?%7Ccookie=hdnea=st=1750722247~exp=1750722847~acl=/bpk-tv/irdeto_com_Channel_530/output/*~id=1076415189~hmac=3baf333e1dbcfea0b259a4935a0e437bf52ae2622d252abf667c2d90fed87fe7&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=70e76eeb44b55b1a897a859ae20facf3:390c13a713442c752ebd01721578142d"
+    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd?%7Ccookie=hdnea=st=1750723023~exp=1750723623~acl=/bpk-tv/irdeto_com_Channel_530/output/*~id=1076415189~hmac=334907f68fea97bb97e577affeeee02939ef75be73ef7fdef3194a37b279f9a0&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=70e76eeb44b55b1a897a859ae20facf3:390c13a713442c752ebd01721578142d"
 }
 ,
 {
@@ -66,7 +66,7 @@
 ,
 {
     "id": "1496",
-    "mpd": "dummy?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "Not found?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 
 ]

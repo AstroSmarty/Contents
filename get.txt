@@ -1,7 +1,7 @@
 [
 {
     "id": "45",
-    "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd?%7Ccookie=hdnea=st=1751743048~exp=1751743648~acl=/bpk-tv/irdeto_com_Channel_365/output/*~id=1076415189~hmac=693ecb5fdb0c19706212ea6d6070628d247bdf73fc6992c9026238b9a2201f76&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=8d3a070b8cf45a2ead008317f1303cc4:8340e392bdf7b9344b88e575eae94db5"
+    "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd?%7Ccookie=hdnea=st=1751743562~exp=1751744162~acl=/bpk-tv/irdeto_com_Channel_365/output/*~id=1076415189~hmac=dfa4a5156d10e9430489cd2bbc0335637b9a5ac2d7c7c51da8eadbc1b2ececcc&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=8d3a070b8cf45a2ead008317f1303cc4:8340e392bdf7b9344b88e575eae94db5"
 }
 ,
 {
@@ -16,7 +16,7 @@
 ,
 {
     "id": "388",
-    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd?%7Ccookie=hdnea=st=1751743452~exp=1751744052~acl=/bpk-tv/irdeto_com_Channel_608/output/*~id=1076415189~hmac=3cc909d4f148a6176153d8685a1e7d4e926a815ed453097b1deaa3dc54d57b40&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=883a375bcf6a5d8c8c02ecf1d4973fcc:e2ed107d6a1edc62952c052c4fcccb8f"
+    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd?%7Ccookie=hdnea=st=1751743452~exp=1751744052~acl=/bpk-tv/irdeto_com_Channel_608/output/*~id=1076415189~hmac=3cc909d4f148a6176153d8685a1e7d4e926a815ed453097b1deaa3dc54d57b40&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=4f35c72e81e05497b4f095c7c1da91fb:8c67453a58370859f480e3b3964aaf3e"
 }
 ,
 {
@@ -36,7 +36,7 @@
 ,
 {
     "id": "341",
-    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd?%7Ccookie=hdnea=st=1751743464~exp=1751744064~acl=/bpk-tv/irdeto_com_Channel_530/output/*~id=1076415189~hmac=870ff9090c2f882645dc23dd430646f1ee204099d5bce8d59871a6a1cbdbf15d&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=65a93a7703ec5fa3b7d1f4c63574f429:583b4b8b5aabc93f9e86dcf887e9f897"
+    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd?%7Ccookie=hdnea=st=1751743464~exp=1751744064~acl=/bpk-tv/irdeto_com_Channel_530/output/*~id=1076415189~hmac=870ff9090c2f882645dc23dd430646f1ee204099d5bce8d59871a6a1cbdbf15d&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=e3bf1e4728df5fa1939051ca115bb051:f99b4bfe830df24d18de005a70380e65"
 }
 ,
 {
@@ -56,17 +56,17 @@
 ,
 {
     "id": "1068",
-    "mpd": "Not found?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://delta.tatasky.net/bpk-tv/irdeto_com_Channel_1882/output/manifest.mpd?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {
     "id": "1186",
-    "mpd": "Not found?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1965/output/manifest.mpd?%7Ccookie=hdnea=st=1751743595~exp=1751744195~acl=/bpk-tv/irdeto_com_Channel_1965/output/*~id=1076415189~hmac=b9936a638fd8e079ce3cbb0764713f768a43b20c01bbec85bb91332cb073d40b&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {
     "id": "1496",
-    "mpd": "Not found?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "dummy?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 
 ]

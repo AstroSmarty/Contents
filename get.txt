@@ -1,7 +1,7 @@
 [
 {
     "id": "45",
-    "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd?%7Ccookie=hdnea=st=1751673166~exp=1751673766~acl=/bpk-tv/irdeto_com_Channel_365/output/*~id=1076415189~hmac=4706d41842d1bb8280e85a24f923ff1fed3436e72ab9fe8dfe1bdab0a169650e&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=3993aa46d88d5f4db6c403412f931bc8:ed18167fb3b4d547cfe610159d550712"
+    "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd?%7Ccookie=hdnea=st=1751691251~exp=1751691851~acl=/bpk-tv/irdeto_com_Channel_365/output/*~id=1076415189~hmac=01d7ceb4128530ea447aff21951de92a8f36f9f86c667201df11da380c685ba8&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=5470313d52b050da925fe675b532a479:e2e4167170a5ef158c56ad34e3af7c92"
 }
 ,
 {
@@ -11,12 +11,12 @@
 ,
 {
     "id": "387",
-    "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd?%7Ccookie=hdnea=st=1751673170~exp=1751673770~acl=/bpk-tv/irdeto_com_Channel_611/output/*~id=1076415189~hmac=909bb51194d6477fcd0e472e424a1e80716bd86e8161b3ea8fbe245971ef7c73&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=133d9255b0db50f4bbc4d13e3b8f8e39:3e6bbb4df24ec1b1ef6d64d6d88b9800"
+    "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd?%7Ccookie=hdnea=st=1751691485~exp=1751692085~acl=/bpk-tv/irdeto_com_Channel_611/output/*~id=1076415189~hmac=4548ea2333e50e12e563a0315f8189500617f79d6cae814dc06090382f617a4c&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=151e9e5250a35551a1ff3766a766448f:db2f6b16b407855b1e099690e1966041"
 }
 ,
 {
     "id": "388",
-    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd?%7Ccookie=hdnea=st=1751673171~exp=1751673771~acl=/bpk-tv/irdeto_com_Channel_608/output/*~id=1076415189~hmac=76a804497cc2908cc3d9b4a5fe42680d64fef3e82b787770fe836d209ecb6b24&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=41d53f69b84554588e7275029748493e:77490bc15ad460754042f9bccb1ad201"
+    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd?%7Ccookie=hdnea=st=1751691489~exp=1751692089~acl=/bpk-tv/irdeto_com_Channel_608/output/*~id=1076415189~hmac=fc17688fb96b5563a94623d88d2498a4afafcf80ce843ead6e69ccd46e2f115d&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=3fcc0513953752e7841d30f357cef02d:021572812f21d5ae594a9f09742ca470"
 }
 ,
 {
@@ -31,12 +31,12 @@
 ,
 {
     "id": "219",
-    "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd?%7Ccookie=hdnea=st=1751673145~exp=1751673745~acl=/bpk-tv/irdeto_com_Channel_128/output/*~id=1076415189~hmac=7f6329f5fb5c512c053a7f0f27591a558c0d12a998e60063ddaf0dac5b5406a8&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd?%7Ccookie=hdnea=st=1751691498~exp=1751692098~acl=/bpk-tv/irdeto_com_Channel_128/output/*~id=1076415189~hmac=fb3018efe0581726e9d32bc88e17561f2781c894340af82d86ddfc27929dc55d&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {
     "id": "341",
-    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd?%7Ccookie=hdnea=st=1751673148~exp=1751673748~acl=/bpk-tv/irdeto_com_Channel_530/output/*~id=1076415189~hmac=aaa3061d47511e8c704af9a633a9f78c14c71f62def4e4fcff1d65c1acf214ab&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=cf9cc0d2eb9e56ccbeccbb294a552372:6d9d3272a75c6f970856e8d49318135f"
+    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd?%7Ccookie=hdnea=st=1751691501~exp=1751692101~acl=/bpk-tv/irdeto_com_Channel_530/output/*~id=1076415189~hmac=4482b94ac068b03db0ae0c6f6a1c0ae7c5c97acc879a77f0164e3d6597aefa71&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=f8f6056088e05a2ca1c17be8b29fc1db:de2417e007cfc8c3651242a848bd1988"
 }
 ,
 {
@@ -61,7 +61,7 @@
 ,
 {
     "id": "1186",
-    "mpd": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1965/output/manifest.mpd?%7Ccookie=hdnea=st=1751673201~exp=1751673801~acl=/bpk-tv/irdeto_com_Channel_1965/output/*~id=1076415189~hmac=c6ceb0a3e9adf5747c1af94565cc71748635a449289c10e110990db14d761c02&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1965/output/manifest.mpd?%7Ccookie=hdnea=st=1751691515~exp=1751692115~acl=/bpk-tv/irdeto_com_Channel_1965/output/*~id=1076415189~hmac=6f4686bf9ee20bfe8547b3635ce799e6c202cd3022c7bee259b6e99d4e1da96e&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {

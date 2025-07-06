@@ -1,7 +1,7 @@
 [
 {
     "id": "45",
-    "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd?%7Ccookie=hdnea=st=1751788148~exp=1751788748~acl=/bpk-tv/irdeto_com_Channel_365/output/*~id=1076415189~hmac=f61ebf66e2baea3eefafece4ea025a37076c1de827130910e1108af7a77fe4f9&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=f2e024a0333251b990319898d4e30335:9c7c79b7659877f1fd41dff45b62a940"
+    "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd?%7Ccookie=hdnea=st=1751788661~exp=1751789261~acl=/bpk-tv/irdeto_com_Channel_365/output/*~id=1076415189~hmac=691443362349b0e1a0a8e61cca9444b621daa8b4a85f8d00ac27540b51b1f6a5&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=f2e024a0333251b990319898d4e30335:9c7c79b7659877f1fd41dff45b62a940"
 }
 ,
 {
@@ -61,12 +61,12 @@
 ,
 {
     "id": "1186",
-    "mpd": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1965/output/manifest.mpd?%7Ccookie=hdnea=st=1751787986~exp=1751788586~acl=/bpk-tv/irdeto_com_Channel_1965/output/*~id=1076415189~hmac=1e3b3b073d7e1b82ff20101b4d1db7a96e5bd5dd87c365619995f8f181afba0c&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1965/output/manifest.mpd?%7Ccookie=hdnea=st=1751788776~exp=1751789376~acl=/bpk-tv/irdeto_com_Channel_1965/output/*~id=1076415189~hmac=8514fe7cdc7221b2ec51d7798cb71f2e0dbb969f14570bf383ad3ccf7e6a4f96&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {
     "id": "1496",
-    "mpd": "dummy?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "Not found?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 
 ]

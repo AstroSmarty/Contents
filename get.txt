@@ -1,7 +1,7 @@
 [
 {
     "id": "45",
-    "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd?%7Ccookie=hdnea=st=1752190155~exp=1752190755~acl=/bpk-tv/irdeto_com_Channel_365/output/*~id=1076415189~hmac=545df2c778d6b4caf0bcc29af8a7a7608c71c97c0c71bb8969042b5093f80a0b&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd?%7Ccookie=hdnea=st=1752190858~exp=1752191458~acl=/bpk-tv/irdeto_com_Channel_365/output/*~id=1076415189~hmac=1512bd0cbf313ebd77b7ff2a45500f7f156b4ab138aaa044aabc8d6087eb120e&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {
@@ -11,12 +11,22 @@
 ,
 {
     "id": "387",
-    "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd?%7Ccookie=hdnea=st=1752190202~exp=1752190802~acl=/bpk-tv/irdeto_com_Channel_611/output/*~id=1076415189~hmac=222bc0d0cc3cc0846db6bd0bda53fe43a29887a8034f2ed745cde4c4772bfb8a&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd?%7Ccookie=hdnea=st=1752190865~exp=1752191465~acl=/bpk-tv/irdeto_com_Channel_611/output/*~id=1076415189~hmac=57ef1767fe8e2f558ddcea7216bc3ce6589b5f817e85f1b523c989005664165e&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {
     "id": "388",
-    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd?%7Ccookie=hdnea=st=1752190207~exp=1752190807~acl=/bpk-tv/irdeto_com_Channel_608/output/*~id=1076415189~hmac=67a88b0e47fc8efcdf9820678615d1c33b7bd3062e47720a1748e899e046325d&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+    "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd?%7Ccookie=hdnea=st=1752190870~exp=1752191470~acl=/bpk-tv/irdeto_com_Channel_608/output/*~id=1076415189~hmac=4422d23d3a8d8c09ef6065c5ea46d9ba8cd0562255dbb7c5ac322dd68e78a1f5&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+}
+,
+{
+    "id": "389",
+    "mpd": "https://delta.tatasky.net/bpk-tv/irdeto_com_Channel_612/output/manifest.mpd?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+}
+,
+{
+    "id": "538",
+    "mpd": "https://delta.tatasky.net/bpk-tv/irdeto_com_Channel_613/output/manifest.mpd?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 ,
 {
@@ -40,6 +50,11 @@
 }
 ,
 {
+    "id": "688",
+    "mpd": "https://delta.tatasky.net/bpk-tv/irdeto_com_Channel_929/output/manifest.mpd?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+}
+,
+{
     "id": "1068",
     "mpd": "https://delta.tatasky.net/bpk-tv/irdeto_com_Channel_1882/output/manifest.mpd?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
@@ -47,6 +62,11 @@
 {
     "id": "1186",
     "mpd": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1965/output/manifest.mpd?%7Ccookie=hdnea=st=1752190536~exp=1752191136~acl=/bpk-tv/irdeto_com_Channel_1965/output/*~id=1076415189~hmac=0c84928e658178536ac30a3390bcbc6904da40a438236b801bebfbb275177b13&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
+}
+,
+{
+    "id": "1496",
+    "mpd": "dummy?%7Ccookie=hdnea=&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/&drmScheme=clearkey&drmLicense=Not found:Not found"
 }
 
 ]

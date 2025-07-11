@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="swantham.in" tvg-name="Swantham TV" tvg-logo="https://scontent.fcok6-2.fna.fbcdn.net/v/t39.30808-6/305536170_471106805029403_5270051386296370744_n.png?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=4lGtZ30z-hkQ7kNvwG_KVko&_nc_oc=AdnlJf1MQgamkK4OrH2rRbkE56asxCmsZ7YG4x0I81dVf7f_mbnXFVa3KqJdMK6sS3YJEr4iovinXgHTzwgKSPSm&_nc_zt=23&_nc_ht=scontent.fcok6-2.fna&_nc_gid=8a_5W7qpvfrXMJlueZno_A&oh=00_AfQePlvS-vpOnsk3537S5_ixBbk6YSKfj3I0TIoB-NiyDw&oe=68746D63" group-title="Malayalam",Swantham Channel
+#EXTVLCOPT:http-user-agent= AppleCoreMedia/1.0.0.22E252 (iPhone; U; CPU OS 18_4_1 like Mac OS X; en_us)
+http://cloud.logichost.in:1935/SWANTHAM/live/playlist.m3u8
+
